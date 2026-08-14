@@ -58,3 +58,9 @@ a:hover{
     background-color: var(--surface-color);
 }
 
+.pf{
+  width: 150px;          /* define largura */
+  height: 150px;         /* define altura */
+  border-radius: 50%;   /* arredonda */
+  object-fit: cover;    /* ajusta sem distorcer */
+}
