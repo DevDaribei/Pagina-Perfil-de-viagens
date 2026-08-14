@@ -27,3 +27,14 @@ body{
     font-family: var(--text-lg);
 }
 
+.perfil {
+  width: 150px;          /* define largura */
+  height: 150px;         /* define altura */
+  border-radius: 50%;   /* arredonda */
+  object-fit: cover;    /* ajusta sem distorcer */
+  display: block;       /* garante que respeite tamanho */
+}
+
+
+
+
