@@ -28,13 +28,23 @@ body{
 }
 
 .perfil {
-  width: 150px;          /* define largura */
-  height: 150px;         /* define altura */
+  width: 40px;          /* define largura */
+  height: 40px;         /* define altura */
   border-radius: 50%;   /* arredonda */
   object-fit: cover;    /* ajusta sem distorcer */
   display: block;       /* garante que respeite tamanho */
+  align-items: center;  /* centraliza verticalmente */
 }
 
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover{
+    color: var(--brand-color);
+    text-decoration: underline;
+}
 
 
 
