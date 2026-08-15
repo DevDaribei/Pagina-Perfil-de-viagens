@@ -1,0 +1,12 @@
+footer{
+    display:flex;
+    
+
+}
+
+footer span:nth-child(1){
+    margin-right: auto;
+    gap: 24px;
+    color: var(--text-color-secondary);
+    font: var(--text-md);
+}
