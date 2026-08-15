@@ -16,8 +16,8 @@
     --font-family: 'Poppins', sans-serif;
     --text-lg/* large: */: bold 32px/125% var(--font-family);
     --text: ;
-    --text-md/* medium: */: 14px/175% var(--font-family);
-    --text-sm/* small: */: 12px/175% var(--font-family);
+    --text-md/* medium: */: 14px/170% var(--font-family);
+    --text-sm/* small: */: 12px/170% var(--font-family);
  
 }
 
